@@ -1,0 +1,4 @@
+baseURL = "https://curtaingoodesnef.vercel.app"
+languageCode = "en-us"
+title = "Bed Curtains Ideas"
+theme = "hugo-theme-minos"
